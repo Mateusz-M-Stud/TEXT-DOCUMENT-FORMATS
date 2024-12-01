@@ -1,0 +1,24 @@
+{
+  "ticketID": "ABC123456",
+  "passenger": {
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com"
+  },
+  "journey": {
+    "departureStation": "New York Penn Station",
+    "arrivalStation": "Washington Union Station",
+    "departureTime": "2024-12-01T08:30:00",
+    "arrivalTime": "2024-12-01T12:45:00",
+    "trainNumber": "Acela Express 2150",
+    "class": "First Class",
+    "seatNumber": "A12"
+  },
+  "ticketPrice": 150.50,
+  "isRoundTrip": false,
+  "additionalServices": [
+    "WiFi",
+    "Meal",
+    "Power Outlet"
+  ]
+}

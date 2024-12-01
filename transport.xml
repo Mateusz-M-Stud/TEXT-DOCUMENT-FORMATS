@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Motorcycle" terrain="Road">
+        <brand>Yamaha</brand>
+        <model>MT-07</model>
+        <engineCapacity>689cc</engineCapacity>
+        <maxSpeed>200 km/h</maxSpeed>
+    </vehicle>
+    <vehicle type="Electric Scooter" terrain="Urban">
+        <brand>Xiaomi</brand>
+        <model>Mi Electric Scooter Pro 2</model>
+        <batteryLife>45 km</batteryLife>
+        <topSpeed>25 km/h</topSpeed>
+    </vehicle>
+    <vehicle type="Train" terrain="Rail">
+        <operator>Amtrak</operator>
+        <route>North-East Corridor</route>
+        <carriageCount>8</carriageCount>
+        <capacity>300</capacity>
+    </vehicle>
+</transport>

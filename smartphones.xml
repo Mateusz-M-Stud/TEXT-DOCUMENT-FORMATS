@@ -1,0 +1,11 @@
+<smartphones>
+<smartphone brand="Motorola" model="Moto G54 5G" releaseYear="2023">
+<specs>
+<screenSize unit="inch">6,5"</screenSize>
+<batteryCapacity unit="mAh">6000</batteryCapacity>
+<storage unit="GB">256</storage>
+<camera unit="MP">16</camera>
+</specs>
+<price currency="USD">250</price>
+</smartphone>
+</smartphones>

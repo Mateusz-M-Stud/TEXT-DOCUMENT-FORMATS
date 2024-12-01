@@ -1,0 +1,3 @@
+https://csvlint.io/validate
+
+https://www.xmlvalidation.com
